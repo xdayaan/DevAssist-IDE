@@ -1,6 +1,6 @@
-# CodePilot AI — JavaFX Intelligent Code Editor
+# DevAssist-IDE — JavaFX Intelligent Code Editor
 
-CodePilot AI is a modern desktop code editor built with JavaFX, designed to provide a lightweight IDE-like experience with intelligent assistance powered by the Gemini API. This project demonstrates desktop UI engineering, file handling, syntax highlighting, and AI integration for developer productivity.
+DevAssist-IDE is a modern desktop code editor built with JavaFX, designed to provide a lightweight IDE-like experience with intelligent assistance powered by the Gemini API. This project demonstrates desktop UI engineering, file handling, syntax highlighting, and AI integration for developer productivity.
 
 ---
 
